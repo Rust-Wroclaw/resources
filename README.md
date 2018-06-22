@@ -36,3 +36,6 @@ Original Rust logo is taken from: https://www.rust-lang.org/en-US/legal.html
 
 **Rust-Wroclaw logo - proposal #8**
 ![logo8](rust-wroclaw-W.png)
+
+**Rust-Wroclaw logo - proposal #9**
+![logo9](rust-wroclaw-W-2.png)
