@@ -27,3 +27,12 @@ Original Rust logo is taken from: https://www.rust-lang.org/en-US/legal.html
 
 **Rust-Wroclaw logo - proposal #5**
 ![logo5](rust-wroclaw-logo-W-bg.png)
+
+**Rust-Wroclaw logo - proposal #6**
+![logo6](rust-wroclaw-silhouette.png)
+
+**Rust-Wroclaw logo - proposal #7**
+![logo7](rust-wroclaw-spire.png)
+
+**Rust-Wroclaw logo - proposal #8**
+![logo8](rust-wroclaw-W.png)
