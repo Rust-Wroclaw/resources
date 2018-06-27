@@ -1,13 +1,21 @@
 Rust-Wroclaw (https://www.meetup.com/Rust-Wroclaw) group resources
 ==================================================================
 
+Official Group Logo:
+--------------------
 
-Logos & logo proposals:
------------------------
+![Rust-Wroclaw-Logo-Official](official-rust-wroclaw-logo.png)
+
+
+Logo proposals:
+---------------
 
 Image of the Wroclaw flag is taken from wikipedia: https://commons.wikimedia.org/wiki/File:Wroclaw_horizontal_flag.svg
 
 Original Rust logo is taken from: https://www.rust-lang.org/en-US/legal.html
+
+Below you will find some logo proposals that were created before the one&only version of logo for the group has been picked.
+
 
 **Rust-Wroclaw logo - proposal #1**
 ![Logo1](rust-wroclaw-logo-1.png)
