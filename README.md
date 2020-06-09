@@ -14,5 +14,5 @@ This logo is available in various formats:
 - [.png](rust-wroclaw-logo.png) 
 - [.svg](rust-wroclaw-logo.svg)
 
-Working on logo took some time, and there were couple of other proposals.
+Working on logo took some time, and there were couple of other [proposals](logo_proposals.md).
 
