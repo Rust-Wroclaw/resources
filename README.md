@@ -16,3 +16,12 @@ This logo is available in various formats:
 
 Working on logo took some time, and there were couple of other [proposals](logo_proposals.md).
 
+Rusty Days Conference Logo:
+----
+
+![Rusty Days Conference Logo](rusty-days-ferris.png)
+
+This is the logo drawn especially for the 'Rusty Days Conference'. 
+It is available in:
+- [.png](rusty-days-ferris.png)
+- [.svg](rusty-days-ferris.svg)
