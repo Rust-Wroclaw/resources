@@ -25,3 +25,8 @@ This is the logo drawn especially for the 'Rusty Days Conference'.
 It is available in:
 - [.png](rusty-days-ferris.png)
 - [.svg](rusty-days-ferris.svg)
+
+Event Graphics
+----
+
+We also have graphics we use for each event (on meetup & on FB): [event graphics](event_graphics.md)
