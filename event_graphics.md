@@ -1,7 +1,7 @@
 These are graphics we currently use for each Rust Wroclaw event.
 
 <pre>
-<a href="https://github.com/Rust-Wroclaw/resources/blob/master/RW%2021%20-%20Meetup.jpg" height="200"></a>
+<img src="https://raw.githubusercontent.com/Rust-Wroclaw/resources/master/RW%2021%20-%20Meetup.jpg" align="left" height="200">
 </pre>
 
 To create a graphics for new event:
