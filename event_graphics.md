@@ -1,5 +1,9 @@
 These are graphics we currently use for each Rust Wroclaw event.
 
+<pre>
+<a href="https://github.com/Rust-Wroclaw/resources/blob/master/RW%2021%20-%20Meetup.jpg" height="200"></a>
+</pre>
+
 To create a graphics for new event:
 1. Install Gimp (at least 2.10)
 2. Install additional fonts:
